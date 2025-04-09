@@ -1,0 +1,17 @@
+asgiref
+Django
+djangorestframework
+pillow
+psycopg2-binary
+sqlparse
+typing_extensions
+requests
+django-cors-headers
+python-dotenv
+django-filter
+djangorestframework-simplejwt
+ipython
+drf-yasg
+redis
+celery
+django_celery_beat
