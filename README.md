@@ -3,7 +3,7 @@ pip install -r requirements.txt
 ```
 
 ```
-cp .env.example .env
+cp .env.sample .env
 ```
 
 ```
