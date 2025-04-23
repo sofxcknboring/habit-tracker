@@ -1,6 +1,6 @@
 services:
   web:
-    container_name: django-course
+    container_name: habit-track
     build: .
     command: >
       bash -c "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"

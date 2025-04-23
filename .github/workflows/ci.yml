@@ -80,7 +80,7 @@ jobs:
 
     - name: Define variables
       run: |
-        echo "DEPLOY_PATH=/opt/django-course" >> $GITHUB_ENV
+        echo "DEPLOY_PATH=/opt/habit-tracker" >> $GITHUB_ENV
         echo "COMPOSE_FILE=docker-compose.yml" >> $GITHUB_ENV
 
     - name: SCP > server
